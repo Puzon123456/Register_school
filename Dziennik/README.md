@@ -1,0 +1,1 @@
+Aplikacja realizująca przykładowy szkolny dziennik elektroniczny
